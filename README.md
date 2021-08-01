@@ -8,5 +8,3 @@
 </div>
 
 - 🌱 Estudando FrontEnd
-  
-  ![Snake animation](https://github.com/julioxbs/julioxbs/blob/output/github-contribution-grid-snake.svg)
