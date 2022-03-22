@@ -26,6 +26,12 @@ My name is Julio Cesar, I am a Brazilian student looking for an opportunity in w
 </div>
   
 <hr>
+    
+## 🖖🏽 Detailed Information
+
+* **Learning**: Vue - React - Typescript
+* **I know**: Javascript - Bootstrap - CSS - SASS
+* **University**: Graduate | Unopar
   
 ## 🏆 Courses and certifications
 
