@@ -2,7 +2,7 @@
 
 My name is Júlio César, I am a Brazilian student looking for an opportunity in web development. Currently I enjoy doing various projects at Frontend Mentor or elsewhere in search of always improving my skills.
 
-## Social
+## Social Networks
 
 <div align="center">
     <a target='_blank' href="https://twitter.com/JulioBs06">
@@ -17,14 +17,11 @@ My name is Júlio César, I am a Brazilian student looking for an opportunity in
 </div>
 </center>
 
-##
-
-  
 <hr>
     
 ## Skills
 
-<div>
+<div style='top'>
   <a href="https://github.com/julioxbs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioxbs&layout=compact&langs_count=7&theme=dracula"/>
   </a>
