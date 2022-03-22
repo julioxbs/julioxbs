@@ -24,15 +24,15 @@ My name is Júlio César, I am a Brazilian student looking for an opportunity in
     
 ## Skills
 
-<table>
- <tr>
+<div>
+ <div>
     <a href="https://github.com/julioxbs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioxbs&layout=compact&langs_count=7&theme=dracula"/>
- </tr>
+ </div>
 * **Learning**: Vue - React - Typescript - English  
 * **I know**: Javascript - Bootstrap - CSS - SASS
 * **University**: Graduate | Unopar
-</table>
+</div>
 
 
   
