@@ -27,13 +27,9 @@ My name is Júlio César, I am a Brazilian student looking for an opportunity in
   </a>
  </div>
 
-<div>
 * **Learning**: Vue - React - Typescript - English  
 * **I know**: Javascript - Bootstrap - CSS - SASS
 * **University**: Graduate | Unopar
-</div>
-
-
   
 ## 🏆 Courses and certifications
 
