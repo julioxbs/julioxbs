@@ -31,4 +31,4 @@ My name is Julio Cesar, I am a Brazilian student looking for an opportunity in w
 
 - COMPLETE - JavaScript Course 2022: Udemy
 - COMPLETE - Problem Solving (Basic) Certificate: Hackerrank
-- COMPLETE - Graduate in System Analysis and development: Unopar
+- COMPLETE - Graduate in Computer Information Systems: Unopar
