@@ -9,12 +9,16 @@ My name is Julio Cesar, I am a Brazilian student looking for an opportunity in w
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
   
-    <a target='_blank' href="https://www.hackerrank.com">
+    <a target='_blank' href="https://www.hackerrank.com/julioxbs">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a>
   
     <a target='_blank' href="https://www.linkedin.com/in/julioxbs">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    
+    <a target='_blank' href="#">
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
 </div>
 </center>
