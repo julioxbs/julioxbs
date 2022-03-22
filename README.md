@@ -29,7 +29,7 @@ My name is Julio Cesar, I am a Brazilian student looking for an opportunity in w
     <a target='_blank' href="https://instagram.com/yagasaki.dev">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/andersonmarlon">
+    <a target='_blank' href="https://linkedin.com/in/julioxbs">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
