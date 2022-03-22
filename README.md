@@ -9,7 +9,7 @@ My name is Julio Cesar, I am a Brazilian student looking for an opportunity in w
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
   
-    <a target='_blank' href="https://www.hackerrank.com/julioxbs">
+    <a target='_blank' href="https://www.hackerrank.com">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a>
   
