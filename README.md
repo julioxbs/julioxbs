@@ -1,4 +1,6 @@
-### Olá, eu sou Júlio César 👋
+### 👋 Hi There!
+
+My name is Julio Cesar, I am a Brazilian student looking for an opportunity in web development. Currently I enjoy doing various projects at Frontend Mentor or elsewhere in search of always improving my skills.
 
 ##
 <div>
