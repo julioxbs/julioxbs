@@ -16,8 +16,6 @@ My name is Júlio César, I am a Brazilian student looking for an opportunity in
     </a>
 </div>
 </center>
-
-<hr>
     
 ## Skills
 
