@@ -28,7 +28,7 @@ My name is Júlio César, I am a Brazilian student looking for an opportunity in
   </a>
  </div>
 
-* **Learning**: React - English  
+* **Learning**: React - English - Nodejs - Tailwind
 * **I know**: Javascript - Bootstrap - CSS - SASS
 * **University**: Graduate | Unopar
   
